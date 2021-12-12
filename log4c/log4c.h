@@ -1,0 +1,1 @@
+void log4c (const char *msg);
