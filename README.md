@@ -12,6 +12,4 @@ cmake .. -G "MinGW Makefiles"
 cmake --build .
 ```
 
-
-
-
+**Dont actually use this**
